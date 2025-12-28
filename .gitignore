@@ -24,6 +24,9 @@ bin-int/
 **.vcxproj
 **.vcxproj.filters
 
+# GMake
+Makefile
+
 # =========================
 # Operating System Files
 # =========================
